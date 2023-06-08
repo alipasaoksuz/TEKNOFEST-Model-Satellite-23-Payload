@@ -18,3 +18,6 @@ Genel özellikler:
 - Servo Motor için header
 - 70*70mm square board
 - PCB CubeSat'lara benzetilmesi için kenardaki çıkıntılar ile sisteme montajı için kullanılacak
+
+![](https://github.com/alipasaoksuz/TEKNOFEST-Model-Satellite-23-Payload/blob/main/5.Final/1.jpg)
+![](https://github.com/alipasaoksuz/TEKNOFEST-Model-Satellite-23-Payload/blob/main/5.Final/DSC_0018.JPG)
